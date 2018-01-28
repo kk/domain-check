@@ -1,6 +1,6 @@
 {
   "name": "domain-check",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Domain name availability checker",
   "main": "app.js",
   "dependencies": {

@@ -1,14 +1,14 @@
 {
   "name": "domain-check",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Domain name availability checker",
   "main": "app.js",
   "dependencies": {
-    "limiter": "^1.1.2",
     "async": "^2.6.0",
     "async-each": "^1.0.1",
+    "limiter": "^1.1.2",
     "line-reader": "^0.4.0",
-    "whois": "^2.5.0",
+    "whois": "^2.5.7",
     "whois-json": "^1.2.2"
   },
   "devDependencies": {},

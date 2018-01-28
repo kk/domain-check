@@ -1,0 +1,34 @@
+{
+  "name": "domain-check",
+  "version": "1.0.0",
+  "description": "Domain name availability checker",
+  "main": "app.js",
+  "dependencies": {
+    "limiter": "^1.1.2",
+    "async": "^2.6.0",
+    "async-each": "^1.0.1",
+    "line-reader": "^0.4.0",
+    "whois": "^2.5.0",
+    "whois-json": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cartoon/domain-check.git"
+  },
+  "keywords": [
+    "domain",
+    "name",
+    "check",
+    "available"
+  ],
+  "author": "e",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cartoon/domain-check/issues"
+  },
+  "homepage": "https://github.com/cartoon/domain-check#readme"
+}

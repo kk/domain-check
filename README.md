@@ -3,6 +3,10 @@
 
 This script can check a large number of domain names to see which names are available to be registered.
 
+# Requirements
+
+Node.js
+
 # Usage
 1) Fill the wordlist.txt file with words (each word on a new line)
 
